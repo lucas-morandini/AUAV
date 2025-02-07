@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AUAV_UE5",
+			"Path": "..\\Source\\AUAV_UE5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AUAV_UE5Editor",
+			"Path": "..\\Source\\AUAV_UE5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AUAV_UE5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AUAV_UE5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AUAV_UE5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AUAV_UE5">
+      <UniqueIdentifier>{8A0DF40C-F0CF-3009-9E2C-20193C6A1CC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AUAV_UE5\AUAV_UE5.Build.cs">
+      <Filter>Source\AUAV_UE5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AUAV_UE5\AUAV_UE5.cpp">
+      <Filter>Source\AUAV_UE5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AUAV_UE5\AUAV_UE5.h">
+      <Filter>Source\AUAV_UE5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AUAV_UE5\AUAV_UE5GameModeBase.cpp">
+      <Filter>Source\AUAV_UE5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AUAV_UE5\AUAV_UE5GameModeBase.h">
+      <Filter>Source\AUAV_UE5</Filter>
+    </ClCompile>
+    <Filter Include="Source\AUAV_UE5\Private">
+      <UniqueIdentifier>{2F46F718-D25D-3526-AF6D-79D7C6B5E93B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AUAV_UE5\Private\DroneComponent.cpp">
+      <Filter>Source\AUAV_UE5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\AUAV_UE5\Public">
+      <UniqueIdentifier>{04DF7F80-F894-336D-9275-9780EF8BC11B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AUAV_UE5\Public\DroneComponent.h">
+      <Filter>Source\AUAV_UE5\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

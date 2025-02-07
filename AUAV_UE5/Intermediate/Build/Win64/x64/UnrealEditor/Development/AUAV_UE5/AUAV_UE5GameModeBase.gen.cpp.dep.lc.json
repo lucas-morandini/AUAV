@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\auav_ue5\\uht\\auav_ue5gamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\x64\\auav_ue5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auav_ue5\\definitions.auav_ue5.h",
+            "c:\\users\\lucas\\auav\\auav_ue5\\source\\auav_ue5\\auav_ue5gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\auav_ue5\\uht\\auav_ue5gamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

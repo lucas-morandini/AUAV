@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lucas\\auav\\auav_ue5\\source\\auav_ue5\\private\\dronecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\x64\\auav_ue5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auav_ue5\\definitions.auav_ue5.h",
+            "c:\\users\\lucas\\auav\\auav_ue5\\source\\auav_ue5\\public\\dronecomponent.h",
+            "c:\\users\\lucas\\auav\\auav_ue5\\intermediate\\build\\win64\\unrealeditor\\inc\\auav_ue5\\uht\\dronecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
